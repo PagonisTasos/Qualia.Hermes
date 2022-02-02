@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+	<Product>Qualia.Hermes</Product>
+	<PackageId>Qualia.Hermes</PackageId>
+	<Title>Qualia.Hermes</Title>
+	<Description>
+		A small C# library for http requests.
+	</Description>
+	<PackageProjectUrl>https://github.com/PagonisTasos/Qualia.Hermes</PackageProjectUrl>
+	<PackageTags>http requests</PackageTags>
+	<RootNamespace>Qualia.Hermes</RootNamespace>
+	<Version>1.0.0</Version>
+	<Authors>Pagonis Tasos</Authors>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
